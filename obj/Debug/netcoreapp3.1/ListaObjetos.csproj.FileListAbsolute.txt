@@ -1,0 +1,13 @@
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\ListaObjetos\bin\Debug\netcoreapp3.1\ListaObjetos.exe
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\ListaObjetos\bin\Debug\netcoreapp3.1\ListaObjetos.deps.json
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\ListaObjetos\bin\Debug\netcoreapp3.1\ListaObjetos.runtimeconfig.json
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\ListaObjetos\bin\Debug\netcoreapp3.1\ListaObjetos.runtimeconfig.dev.json
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\ListaObjetos\bin\Debug\netcoreapp3.1\ListaObjetos.dll
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\ListaObjetos\bin\Debug\netcoreapp3.1\ListaObjetos.pdb
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\ListaObjetos\obj\Debug\netcoreapp3.1\ListaObjetos.csprojAssemblyReference.cache
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\ListaObjetos\obj\Debug\netcoreapp3.1\ListaObjetos.AssemblyInfoInputs.cache
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\ListaObjetos\obj\Debug\netcoreapp3.1\ListaObjetos.AssemblyInfo.cs
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\ListaObjetos\obj\Debug\netcoreapp3.1\ListaObjetos.csproj.CoreCompileInputs.cache
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\ListaObjetos\obj\Debug\netcoreapp3.1\ListaObjetos.dll
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\ListaObjetos\obj\Debug\netcoreapp3.1\ListaObjetos.pdb
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\ListaObjetos\obj\Debug\netcoreapp3.1\ListaObjetos.genruntimeconfig.cache
